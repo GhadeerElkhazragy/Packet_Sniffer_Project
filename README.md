@@ -74,4 +74,4 @@ The phases for building the backend structure of the application were as followi
  
  ![Alt text](https://user-images.githubusercontent.com/26356497/34335196-8f340fb4-e955-11e7-9b16-e8586e8d924c.PNG)
 
-
+- Using tips on buttons
